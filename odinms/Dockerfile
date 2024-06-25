@@ -1,4 +1,4 @@
-FROM java:6
+FROM openjdk:6
 
 WORKDIR /odinms
 
